@@ -30,7 +30,7 @@ public class AutoJxWechatrecord {
     static String mingziid = "com.tencent.mm:id/as6";
     static String contentid = "com.tencent.mm:id/as8";
     static String backid = "com.tencent.mm:id/hl";
-    static String neirong = "我是佳缘与子偕臧";
+    static String neirong = "我是与子偕臧";
 
 
     @Before
